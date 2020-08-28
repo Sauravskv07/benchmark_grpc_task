@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package = "github.com/sauravskv07/proto";
+option go_package = "github.com/Sauravskv07/benchmark_grpc_task/proto";
 
 package Task;
 
