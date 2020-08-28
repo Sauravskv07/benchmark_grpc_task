@@ -35,7 +35,7 @@ import (
 )
 
 var (
-	port       = flag.Int("port", 10000, "The server port")
+	port = flag.Int("port", 10000, "The server port")
     num_components = flag.Int("components",10,"The number of components")
     cap_queues = flag.Int("capacity",1000,"The capacity of each queue")
 )
