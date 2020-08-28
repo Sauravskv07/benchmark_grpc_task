@@ -31,7 +31,7 @@ import (
 	"net"
 	"google.golang.org/grpc"
     "github.com/golang-collections/go-datastructures/queue"
-    pb "github.com/sauravskv07/benchmark_grpc_task/proto"
+    pb "github.com/sauravskv07/benchmark_grpc_task/Task"
 )
 
 var (
